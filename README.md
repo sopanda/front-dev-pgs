@@ -35,3 +35,5 @@ Zadanie domowe​
 3. Strona ma poprawnie wyglądać tylko na desktopach – nie musi być repsonsywna(ten temat będzie na następnych wykładach).
 
 4. Plik psd polecam dodać do Adobe assets(konto jest darmowe), pozwoli to wam odczytać wielkości elementów, podejrzeć czcionki, pobrać assety itd.
+
+![todo](../master/meeting_2/answer/img/webdesign.png)
