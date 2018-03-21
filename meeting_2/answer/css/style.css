@@ -136,7 +136,7 @@ nav {
     top: 129px;
 }
 
-.btn-stroke-group .line-vert.low{
+.btn-stroke-group .line-vert.low {
     top: 140px;
 }
 
@@ -186,4 +186,64 @@ nav {
     font-family: Georgia, serif;
     font-size: 18px;
     font-style: italic;
+    opacity: 0.86;
+}
+
+.wrap-about {
+    margin-top: 115px;
+    margin-bottom: 124px;
+}
+
+.about-item {
+    width: 430px;
+    float: left;
+    text-align: left;
+}
+
+.about-item h4 {
+    color: #141515;
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 26px;
+    text-transform: uppercase;
+}
+
+.about-item ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.about-item ul li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Georgia;
+    color: #575757;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 26px;
+    text-align: left;
+}
+
+.about-item p {
+    font-family: Georgia;
+    color: #575757;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 26px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+footer {
+    height: 97px;
+    text-align: center;
+    background-color: #000;
+}
+
+footer p {
+    font-family: Georgia;
+    color: #575757;
+    font-size: 12px;
+    font-style: italic;
+    line-height: 97px;
 }
